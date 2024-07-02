@@ -52,3 +52,16 @@ for (let i = 0; i <= 10; i++) {
     
 }
 console.log(text6);
+
+
+
+// .includes  "Used to ask some questions just like given below"
+const myNames = [1, 4, 6, 7, 8, 4, 1];
+console.log(myNames.includes(9));  // output = false , beacuse there is no 9 in the above Array
+
+
+// .join()   "Used to convert all the array elements into String"
+const myArray = [0, 1, 2, 3, 4, 5, 6, 7];
+let newArray = myArray.join();
+console.log(myArray);
+console.log(newArray);
