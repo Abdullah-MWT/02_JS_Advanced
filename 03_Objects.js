@@ -1,4 +1,4 @@
-// ******************   OBJECTS   ********************
+// ******************   Literal or NON-SINGLETON OBJECTS   ********************
 
 //  literals:-                  Note: Key of objects is always treated as String behind the scenes
 
